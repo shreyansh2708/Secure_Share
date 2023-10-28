@@ -1,0 +1,9 @@
+.tokenroute {
+    width: 100%;
+    margin: 0;
+    height: 739px;
+    background-image: url('../images/home.jpg'); 
+    background-size:cover; 
+    background-repeat: no-repeat;
+    background-position: center; 
+}
